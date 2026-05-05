@@ -1,0 +1,13 @@
+Task: Edit Profile
+Description: Create an edit profile form with the following fields
+
+Fields:
+- Name (Input)
+- Email (Input)
+- Phone (Input)
+- Date of Birth (Date Input)
+- Gender (Radio Button)
+- Save (Button)
+
+Details:
+User will be able to update personal information including name, email, phone number, date of birth, and gender. A save button will submit the updated profile.
