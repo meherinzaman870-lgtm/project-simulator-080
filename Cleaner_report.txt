@@ -1,0 +1,12 @@
+Task: Cleaner Report
+Description: Create a form for cleaner to submit a report
+
+Fields:
+- Phone (Input)
+- Address (Input)
+- Report Date (Date Input)
+- Report Details (Text Area)
+- Report (Button)
+
+Details:
+Cleaner will provide phone number and address, select the report date, and write details about the cleaning work in the report box. The report button will submit the form.
